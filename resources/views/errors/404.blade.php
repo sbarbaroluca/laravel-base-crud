@@ -8,6 +8,6 @@
     Oops, qualcosa è andato storto
     <br>La risorsa che stavi cercando non è disponibile.
   </p>
-  <a class="btn btn-primary" href="{{ route('comics.index') }}">Torna all'elenco</a>
+  <a class="btn btn-secondary text-light" href="{{ route('comics.index') }}">Torna all'indice</a>
 </section>
 @endsection
